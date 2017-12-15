@@ -1,0 +1,16 @@
+nfs_des
+021_debian
+022_openafs
+025_krb5-config-paths
+025_pthreads
+030_pkg-config-paths
+installsh
+041_hurd_maxhostnamelen
+042_hurd_path_max
+046_hurd_sundevdata
+047_link_gssapi
+060_no_build_string
+parallel-build
+disable_iprop
+canonical_host
+0016-Add-back-in-base64_encode-and-base64_decode.patch
